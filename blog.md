@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Blog
+title: 첫 포스팅
 slug: /blog
 ---
 
-This is an example of a "Blog" page, displaying a list of posts.
+안녕하세요. 반갑습니다.
 <br />
